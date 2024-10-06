@@ -14,15 +14,15 @@ My interest in research is Aviation Electronics. Since I have lots of interests 
 Education
 ======
 
-🎓 Yonsei University
+🎓 Yonsei University<br>
 B.S. in Dept. of Artificial Intelligence | Mar.2023 ~ Present  
-&nbsp;- GPA : 4.24/4.3 (Top 4% in Dept. of AI)  
-&nbsp;- Completed Coursework : Linear Algebra, Probability and Statics, Data Structure, Engineering Mathematics
+&nbsp; + GPA : 4.24/4.3 (Top 4% in Dept. of AI)  
+&nbsp; + Completed Coursework : Linear Algebra, Probability and Statics, Data Structure, Engineering Mathematics
 
-🏫 Korea University  
+🏫 Korea University<br>
 B.S. in Division of Life Science | Mar.2021 - Feb.2023  
-+ GPA : 4.00/4.5
-+ Completed Coursework : Genetics, Physiology, Cell Biology, Microbiology
+&nbsp; + GPA : 4.00/4.5
+&nbsp; + Completed Coursework : Genetics, Physiology, Cell Biology, Microbiology
 
 
 Getting started
