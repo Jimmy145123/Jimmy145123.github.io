@@ -1,6 +1,6 @@
 ---
 title: "2023 Yonsei-Nexon Creative Platform"
-excerpt: "Developed a movie screening system for the hearing impaired and placed 3rd out of 100 teams in the competition."
+excerpt: "Developed a movie screening system for the hearing impaired and placed 3rd out of 100 teams in the competition. <br/><img src='/images/창플.jpg'>"
 collection: portfolio
 ---
 
