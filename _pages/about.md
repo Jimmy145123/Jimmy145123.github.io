@@ -20,7 +20,7 @@ B.S. in Dept. of Artificial Intelligence | Mar.2023 ~ Present
 + Completed Coursework : Linear Algebra, Probability and Statics, Data Structure, Engineering Mathematics
 
 🏫 Korea University  
-B.S. in Division of Life Science | Mar.2021 - Feb.2023
+B.S. in Division of Life Science | Mar.2021 - Feb.2023  
 + GPA : 4.00/4.5
 + Completed Coursework : Genetics, Physiology, Cell Biology, Microbiology
 
