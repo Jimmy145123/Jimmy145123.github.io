@@ -10,7 +10,7 @@ location: "City, Country"
 
 As a member of YCC(Yonsei Computer Club), I attended study groups to study various fileds in Computer Science.
 
-**Python Algorithm Study Group**
+###**Python Algorithm Study Group**
 =====
 
 <div align="justify">
