@@ -4,7 +4,7 @@ collection: teaching
 type: "School Club"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Yonsei University"
-date: 2023
+date: 2023-1-1
 location: "City, Country"
 ---
 
