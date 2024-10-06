@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2023 Yonsei-Nexon Creative Platform"
+excerpt: "As the leader of Team 'Creative Ohgamja,' we won 3rd place out of 100 teams by developing a movie screening project for the hearing impaired.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
