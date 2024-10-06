@@ -15,5 +15,4 @@ As a member of YCC(Yonsei Computer Club), I attended study groups to study vario
 
 <div align="justify">
 I attended a Python algorithm study group. Each member studied specific topics related to Python algorithms and shared their knowledge. Through the study group, I was able to study Python algorithms effectively, and by sharing my knowledge, I gained a deeper understanding of the subject.
-
 </div>
