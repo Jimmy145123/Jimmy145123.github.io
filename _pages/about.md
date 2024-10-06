@@ -6,12 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div align="justify">
+
 I'm undergraduate student in Yonsei University, Dept. of Artificial Intelligence. As a sophomore student, I have studied 'Discrete Structure', 'Data Structure', 'Object Oriented Programming', 'Linear Algebra', 'Probability and Statics', and currently studying basic Mathematics and Theory for Deep Learning.
 
-
 My research interests lie in artificial intelligence and aviation. I am very interested in airplanes. Airplanes incorporate a wide variety of algorithms, including autopilot systems, and there has been active development of artificial intelligence for aviation systems in recent years. Therefore, I am particularly interested in the development of related artificial intelligence. To prepare for my research, I am studying various engineering subjects, including engineering mathematics, and I am also diligently studying artificial intelligence.
-</div>
 
 
 Education
@@ -23,11 +21,10 @@ B.S. in Dept. of Artificial Intelligence | Mar.2023 ~ Present
 + Completed Coursework : Linear Algebra, Probability and Statics, Data Structure, Engineering Mathematics
 
 
-🏫 Korea University
+🏫 Korea University  
 B.S. in Division of Life Science | Mar.2021 - Feb.2023  
 + GPA : 4.00/4.5
 + Completed Coursework : Genetics, Physiology, Cell Biology, Microbiology
-
 
 
 Awards
