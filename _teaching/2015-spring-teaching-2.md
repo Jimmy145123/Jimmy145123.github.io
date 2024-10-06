@@ -1,11 +1,7 @@
 ---
 title: "YCC(Yonsei Computer Club)"
-collection: teaching
-type: "Sep.2024 ~ Present"
-permalink: /teaching/2015-spring-teaching-1
-venue: ""
-date: 
-location: ""
+excerpt: "As a member of YCC(Yonsei Computer Club), I attended study groups to study various fileds in Computer Science. <br/><img src='/images/groupstudy.jpg'>"
+collection: portfolio
 ---
 
 As a member of YCC(Yonsei Computer Club), I attended study groups to study various fileds in Computer Science.
