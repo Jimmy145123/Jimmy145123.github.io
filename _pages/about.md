@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 <div align="justify">
-I'm undergraduate student in Yonsei University, Dept. of Artificial Intelligence. As a sophomore student, I have studied 'Discrete Structure', 'Data Structure', 'Object Oriented Programming', 'Linear Algebra', 'Probability and Statics', and currently studying basic Mathematics and Theory for Deep Learning. I received the High Honor prize in Yonsei University in Spring semester of 2023 and 2024.
 
+I'm undergraduate student in Yonsei University, Dept. of Artificial Intelligence. As a sophomore student, I have studied 'Discrete Structure', 'Data Structure', 'Object Oriented Programming', 'Linear Algebra', 'Probability and Statics', and currently studying basic Mathematics and Theory for Deep Learning. I received the High Honor prize in Yonsei University in Spring semester of 2023 and 2024.
+</div>
+
+<div align="justify">
 My interest in research is Aviation Electronics. Since I have lots of interests in Aircraft, I want to study Ai programs that is embedded in aircraft like Autopilot program. For research, I'm studying hard not only in Artifical Intelligence, but also in Robotics. I'm attending in various mathematics courses to study basics of Robotics. 
 </div>
 
-
 Education
 ======
+
 🎓 Yonsei University
 B.S. in Dept. of Artificial Intelligence | Mar.2023 ~ Present
   - GPA : 4.24/4.3 (Top 4% in Dept. of AI)
