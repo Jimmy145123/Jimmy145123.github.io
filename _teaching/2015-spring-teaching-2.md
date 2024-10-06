@@ -2,7 +2,7 @@
 title: "YCC(Yonsei Computer Club)"
 collection: teaching
 type: "School Club"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Yonsei University"
 date: 2024-1-1
 location: "City, Country"
