@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "YCC(Yonsei Computer Club)"
 collection: teaching
-type: "Workshop"
+type: "Sep.2024 ~ Present"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: ""
+date: 
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a member of YCC(Yonsei Computer Club), I attended study groups to study various fileds in Computer Science.
 
-Heading 1
-======
+**Python Algorithm Study Group**
+=====
 
-Heading 2
-======
+<div align="justify">
+I attended a Python algorithm study group. Each member studied specific topics related to Python algorithms and shared their knowledge. Through the study group, I was able to study Python algorithms effectively, and by sharing my knowledge, I gained a deeper understanding of the subject.
 
-Heading 3
-======
+</div>
