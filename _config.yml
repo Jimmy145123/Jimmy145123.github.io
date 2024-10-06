@@ -21,7 +21,7 @@ repository               : "Jimmy145123/Jimmy145123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "My_photo.jpg"
   name             : "Jimyung Hong"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student <br>Dept. of Artificial Intelligence <br>Yonsei University"
