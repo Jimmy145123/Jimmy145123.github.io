@@ -4,7 +4,7 @@ excerpt: "Developed a drone control system for collision avoidance through netwo
 collection: portfolio
 ---
 
-As the team leader of the 'Sky Guardians', our topic was selected as finalist for [KOREN Net Challenge Season 11](https://www.koren.kr/kor/Alram/contyPass.asp?cd=34&page=1). Our team anticipated the future commercialization of drones for services like drone delivery and drone taxis, and developed a drone control system to ensure safe flight operations. Utilizing the KOREN network and Virtual Machines, we enabled communication between drones and a central server. Click [here](/files/최종발표자료_스카이가디언즈.pdf) to view materials.  
+As the team leader of the `Sky Guardians', our topic was selected as finalist for [KOREN Net Challenge Season 11](https://www.koren.kr/kor/Alram/contyPass.asp?cd=34&page=1). Our team anticipated the future commercialization of drones for services like drone delivery and drone taxis, and developed a drone control system to ensure safe flight operations. Utilizing the KOREN network and Virtual Machines, we enabled communication between drones and a central server. Click [here](/files/최종발표자료_스카이가디언즈.pdf) to view related documents of our topic and [here](/files/최종평가시연동영상_스카이가디언즈.mp4) for demonstration video.
 
 
 In the competition, I noticed the growth potential of the drone market and proposed the idea of a drone control system. I took part in planning the flight of the drone using the ArduPilot drone simulator and wrote the drone avoidance code. <br/><br/>
