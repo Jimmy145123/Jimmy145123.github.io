@@ -16,15 +16,14 @@ My research interests lie in artificial intelligence and aviation. I am very int
 
 ## 🎓 Yonsei University
 **B.S. in Dept. of Artificial Intelligence | Mar. 2023 ~ Present**
-
 - GPA: 4.24/4.3 (Top 4% in Dept. of AI)
 - Completed Coursework: Linear Algebra, Probability and Statistics, Data Structure, Engineering Mathematics
 
 ## 🏫 Korea University
 **B.S. in Division of Life Science | Mar. 2021 - Feb. 2023**
-
 - GPA: 4.00/4.5
 - Completed Coursework: Genetics, Physiology, Cell Biology, Microbiology
+
 
 
 Awards
