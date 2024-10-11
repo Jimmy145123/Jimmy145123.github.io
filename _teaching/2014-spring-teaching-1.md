@@ -8,7 +8,7 @@ date: 2024-1-1
 location: "City, Country"
 ---
 
-Club member of 'CREAT+IT' and team member of 'DIVU'. Studied how to use OpenAI API, and created app that using ChatGPT. 
+Club member of `CREAT+IT' and team member of `DIVU'. Studied how to use OpenAI API, and created app that using ChatGPT. 
 
 ### Club Activity
 
