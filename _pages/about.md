@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jimyung Hong's website!"
+title: "👋Welcome to Jimyung Hong's website!"
 author_profile: true
 redirect_from: 
   - /about/
