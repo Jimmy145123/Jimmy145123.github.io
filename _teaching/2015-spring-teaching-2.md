@@ -8,7 +8,7 @@ date: 2024-1-1
 location: "City, Country"
 ---
 
-Member of YCC(Yonsei Computer Club). Attended study groups to study various fileds in Computer Science.
+Member of YCC(Yonsei Computer Club). Attended study groups to study various fields in Computer Science.
 
 ### Python Algorithm Study Group
 
