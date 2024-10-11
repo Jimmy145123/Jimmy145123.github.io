@@ -16,7 +16,7 @@ Education
 ======
 
 🎓 Yonsei University  
-B.S. in Dept. of Artificial Intelligence | Mar. 2023 ~ Present  
+B.S. in Dept. of Artificial Intelligence Mar. 2023 ~ Present
 + GPA: 4.24/4.3 (Top 4% in Dept. of AI)  
 + Completed Coursework: Linear Algebra, Probability and Statistics, Data Structure, Engineering Mathematics
 
