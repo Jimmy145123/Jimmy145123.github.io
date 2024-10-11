@@ -22,6 +22,7 @@ B.S. in Dept. of Artificial Intelligence | Mar. 2023 ~ Present
 
 
 
+
 🏫 Korea University  
 B.S. in Division of Life Science | Mar.2021 - Feb.2023
 - GPA : 4.00/4.5
