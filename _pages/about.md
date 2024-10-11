@@ -21,7 +21,6 @@ B.S. in Dept. of Artificial Intelligence | Mar. 2023 ~ Present
 - Completed Coursework: Linear Algebra, Probability and Statistics, Data Structure, Engineering Mathematics
 
 
-<br/>
 
 🏫 Korea University  
 B.S. in Division of Life Science | Mar.2021 - Feb.2023
